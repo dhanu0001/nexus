@@ -29,7 +29,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.66.143.82:8081/nexus/content/repository/student-snap/</url>
+            <url>http://52.66.143.82:8081/nexus/repository/student-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
